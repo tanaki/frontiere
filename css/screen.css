@@ -1,0 +1,8 @@
+html, 
+body {
+	text-align:center;
+}
+
+#container canvas {
+	border:1px solid black;
+}
